@@ -1,5 +1,7 @@
 ### 💻 <-------[VIRTUAL ENVIRONMENT]-------> 💻
 
+--------------------------------------------------
+
 1) Tener virtualenv instalado en tu pc globalmente
 
 ```shell
