@@ -1,0 +1,34 @@
+# Archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas y archivos específicos generados por lenguajes de programación
+__pycache__/
+*.pyc
+*.pyo
+
+# Directorio virtualenv o entornos virtuales de Python
+venv/
+env/
+*.log
+
+# Carpeta de dependencias de Node.js
+node_modules/
+
+# Archivos y directorios específicos del IDE
+.idea/
+.vscode/
+
+# Archivos de configuración
+*.env
+
+# Carpeta de construcción o salida (por ejemplo, "dist" o "build")
+/dist/
+/build/
+
+# Archivos de registro y resultados de pruebas
+*.log
+test-results/
+
+# Dependiendo de tu proyecto, puedes tener otras exclusiones
+env
